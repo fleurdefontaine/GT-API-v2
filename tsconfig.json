@@ -5,7 +5,7 @@
     "module": "commonjs",
     "lib": ["es2016", "dom"],
     "allowJs": true,
-    "outDir": "./dist",
+    "outDir": "./public",
     "rootDir": "./src",
     
     /* Strict Type-Checking Options */
